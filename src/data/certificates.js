@@ -1,23 +1,18 @@
 export const certificates = [
-   {                                                                                                                                                     
-      title: "DLA 2026 — Başarı Sertifikası",                                                                                                             
-      issuer: "Digital Leadership Academy",                                                                                                               
-      date: "2026",                                                                                                                                       
-      href: "https://www.linkedin.com/posts/muhammed-batuhan_dijitalliderlikakademisi2026-noformakademi-activity-7430907164816457728-R6Qd?utm_source=share
-  &utm_medium=member_desktop&rcm=ACoAAFMtwYABA9Q2WDevGBaWkdTH-zJpvOS_9jc",                                                                                
-      slug: "dla-2026-basari",                                                                                                                            
-      summary:                                                                                                                                            
-        "Dijital Liderlik Akademisi 2026; yapay zeka kapitalizmi, büyük veri, üretken yapay zeka, bağlam mühendisliği, inovasyon yönetimi ve dijital      
-  dönüşüm stratejileri gibi geleceğin kritik konularını kapsar.",                                                                                         
-      body: [                                                                                                                                             
-        "Noform Akademi ve Digital Leadership Academy tarafından düzenlenen Dijital Liderlik Akademisi 2026 programını başarıyla tamamlayarak başarı      
-  sertifikası aldım.",                                                                                                                                    
-        "Program süresince yapay zeka kapitalizmi, büyük veri ve veri yönetimi, üretken yapay zeka (Generative AI), bağlam mühendisliği (Context          
-  Engineering) ve Vibe Coding, inovasyon yönetimi, iş modelleri ve dijital dönüşüm stratejileri, beşeri bilimlerde ve dijital sanatta yapay zekanın rolü, 
-  SEO'dan GEO'ya (Generative Engine Optimization) geçiş ve yeni medya gibi geleceğimizi şekillendiren çok kritik konularda kendimi geliştirdim.",         
-      ],                                                                                                                                                  
-      image: "/certs/dla-2026/batuhan.png",                                                                                                               
-  },                                               
+  {
+    title: "DLA 2026 — Başarı Sertifikası",
+    issuer: "Digital Leadership Academy",
+    date: "2026",
+    href: "https://www.linkedin.com/posts/muhammed-batuhan_dijitalliderlikakademisi2026-noformakademi-activity-7430907164816457728-R6Qd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMtwYABA9Q2WDevGBaWkdTH-zJpvOS_9jc",
+    slug: "dla-2026-basari",
+    summary:
+      "Dijital Liderlik Akademisi 2026; yapay zeka kapitalizmi, büyük veri, üretken yapay zeka, bağlam mühendisliği, inovasyon yönetimi ve dijital dönüşüm stratejileri gibi geleceğin kritik konularını kapsar.",
+    body: [
+      "Noform Akademi ve Digital Leadership Academy tarafından düzenlenen Dijital Liderlik Akademisi 2026 programını başarıyla tamamlayarak başarı sertifikası aldım.",
+      "Program süresince yapay zeka kapitalizmi, büyük veri ve veri yönetimi, üretken yapay zeka (Generative AI), bağlam mühendisliği (Context Engineering) ve Vibe Coding, inovasyon yönetimi, iş modelleri ve dijital dönüşüm stratejileri, beşeri bilimlerde ve dijital sanatta yapay zekanın rolü, SEO'dan GEO'ya (Generative Engine Optimization) geçiş ve yeni medya gibi geleceğimizi şekillendiren çok kritik konularda kendimi geliştirdim.",
+    ],
+    image: "/certs/dla-2026/batuhan.png",
+  },
   {
     title: "Miuul Yapay Zeka Mini Bootcamp — Katılım Sertifikası",
     issuer: "Miuul",
