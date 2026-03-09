@@ -1,6 +1,7 @@
 import Link from "next/link";
-import { Github, Linkedin, Instagram, PenSquare, Youtube } from "lucide-react";
-import { FaXTwitter } from "react-icons/fa6";
+import { Github, Linkedin, PenSquare } from "lucide-react";
+// import { Instagram, Youtube } from "lucide-react";
+// import { FaXTwitter } from "react-icons/fa6";
 
 export default function Nav() {
   return (
@@ -51,7 +52,7 @@ export default function Nav() {
           >
             <PenSquare className="h-4 w-4" />
           </a>
-          <a
+          {/* <a
             href="https://www.instagram.com/muhamrned"
             target="_blank"
             rel="noopener noreferrer"
@@ -59,8 +60,8 @@ export default function Nav() {
             className="rounded-full p-2 text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-300 dark:hover:bg-white/10 dark:hover:text-white"
           >
             <Instagram className="h-4 w-4" />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://x.com/batubym"
             target="_blank"
             rel="noopener noreferrer"
@@ -68,8 +69,8 @@ export default function Nav() {
             className="rounded-full p-2 text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-300 dark:hover:bg-white/10 dark:hover:text-white"
           >
             <FaXTwitter className="h-4 w-4" />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://www.youtube.com/@muhammedbatuhanbayram"
             target="_blank"
             rel="noopener noreferrer"
@@ -77,7 +78,7 @@ export default function Nav() {
             className="rounded-full p-2 text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-300 dark:hover:bg-white/10 dark:hover:text-white"
           >
             <Youtube className="h-4 w-4" />
-          </a>
+          </a> */}
         </nav>
       </div>
     </header>

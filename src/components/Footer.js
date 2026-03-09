@@ -30,30 +30,30 @@ export default function Footer() {
           >
             Medium
           </Link>
-          <Link
+          {/* <Link
             href="https://www.instagram.com/muhamrned"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-900 dark:hover:text-white"
           >
             Instagram
-          </Link>
-          <Link
+          </Link> */}
+          {/* <Link
             href="https://x.com/batubym"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-900 dark:hover:text-white"
           >
             X
-          </Link>
-          <Link
+          </Link> */}
+          {/* <Link
             href="https://www.youtube.com/@muhammedbatuhanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-900 dark:hover:text-white"
           >
             YouTube
-          </Link>
+          </Link> */}
         </div>
       </div>
     </footer>
