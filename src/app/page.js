@@ -16,16 +16,13 @@ export default function Home() {
         className="z-10 text-center"
       >
         <span className="inline-block rounded-full border border-white/10 bg-white/60 px-3 py-1 text-xs font-medium text-zinc-700 backdrop-blur dark:bg-white/10 dark:text-zinc-200">
-          Mühendislik · JS · C++ · Python · AI · Cloud · Linux
+          Mühendislik · JS · C++ · Python · AI · Cloud · Linux · Açık Kaynak · Raspberry Pi · Arduino
         </span>
         <h1 className="mt-6 max-w-none bg-gradient-to-r from-teal-400 via-violet-400 to-indigo-400 bg-clip-text text-6xl font-extrabold leading-tight text-transparent sm:text-7xl md:whitespace-nowrap">
           Muhammed Batuhan Bayram
         </h1>
-        <div className="mt-3 bg-gradient-to-b from-zinc-900 to-zinc-600 bg-clip-text pb-1 text-4xl font-semibold leading-tight text-transparent dark:from-zinc-100 dark:to-zinc-400 sm:text-5xl">
-          Linux ve Açık Kaynak Geliştiricisi
-        </div>
         <p className="mx-auto mt-5 max-w-2xl text-balance text-zinc-600 dark:text-zinc-400">
-          Yazılım becerilerimi geliştirmek isteyen bir Elektrik‑Elektronik mühendisliği öğrencisiyim. Şu anda JavaScript, C++ ve Python ile çalışıyorum. Ayrıca Linux üzerinde çeşitli projeler geliştiriyorum.
+          Akademik olarak Elektrik-Elektronik Mühendisliği alanında öğrenimimi sürdürürken ayrıca Yazılım alanında da kendimi geliştiriyorum. Kendimi belirli bir kalıbın içerisine hapsetmeyi sevmiyorum. Bu yüzden zaman zaman farklı konularda da düşüncelerimi dile getirdiğimi görebilirsiniz.
         </p>
 
         <div className="mx-auto mt-8 flex flex-wrap items-center justify-center gap-3">
@@ -64,7 +61,7 @@ export default function Home() {
         className="mx-auto mt-24 w-full max-w-5xl scroll-mt-20"
       >
         <h2 className="text-xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
-          Ne yapıyorum?
+          Neye Meraklıyım?
         </h2>
         <p className="mt-2 max-w-2xl text-sm text-zinc-600 dark:text-zinc-400">
           Modern web uygulamaları, servisler ve veri odaklı çözümler.
@@ -82,6 +79,18 @@ export default function Home() {
             {
               title: "Python",
               desc: "Otomasyon ve veri işleme.",
+            },
+            {
+              title: "Raspberry Pi",
+              desc: "Gömülü sistemler, IoT projeleri ve donanım yazılım entegrasyonu.",
+            },
+            {
+              title: "Arduino",
+              desc: "Mikrodenetleyici programlama, sensör sistemleri ve otomasyon.",
+            },
+            {
+              title: "Claude AI",
+              desc: "Yapay zeka destekli geliştirme ve AI agent entegrasyonları.",
             },
           ].map((item) => (
             <div
@@ -170,7 +179,7 @@ export default function Home() {
         <div className="flex items-end justify-between">
           <div>
             <h2 className="text-xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
-              Sertifikalar ve Başarılar
+              Deneyimlerim
             </h2>
           </div>
         </div>
@@ -229,7 +238,7 @@ export default function Home() {
           Birlikte çalışalım
         </h2>
         <p className="mx-auto mt-2 max-w-2xl text-sm text-zinc-600 dark:text-zinc-400">
-          Fikrini birlikte ürüne dönüştürelim. Mesaj bırak ya da bağlantı kuralım.
+          Benimle iletişime geçmek için e-posta gönderebilir veya Linkedin üzerinden bağlantı kurabilirsiniz.
         </p>
         <div className="mt-6 flex items-center justify-center gap-3">
           <a
