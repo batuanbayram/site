@@ -1,5 +1,19 @@
 export const certificates = [
   {
+    title: "Türkiye Siber Vatan Programı 2026 Dönemi — Sertifika",
+    issuer: "T.C. Batı Karadeniz Kalkınma Ajansı",
+    date: "2026",
+    href: "https://drdogrulama.sanayi.gov.tr/tr/verify/52611809036694/",
+    slug: "siber-vatan-2026",
+    summary:
+      "Türkiye Siber Vatan Programı, nitelikli siber güvenlik uzmanları yetiştirmek ve ülkemizin dijital savunma kapasitesini güçlendirmek için uygulanmaktadır.",
+    body: [
+      "Türkiye Siber Vatan Programı 2026 Dönemi kapsamında sertifikasını almaya hak kazandım.",
+      "Program; nitelikli siber güvenlik uzmanları yetiştirmek ve ülkemizin dijital savunma kapasitesini güçlendirmek için uygulanmaktadır. Ulusal işbirliğiyle gençlerimize fırsat ve imkân sunuyor, ulusal güvenliğe değer katıyor ve ülkemizin dijital geleceğini birlikte inşa ediyoruz.",
+    ],
+    image: "/certs/siber-vatan/siber_vatan.png",
+  },
+  {
     title: "DLA 2026 — Başarı Sertifikası",
     issuer: "Digital Leadership Academy",
     date: "2026",
