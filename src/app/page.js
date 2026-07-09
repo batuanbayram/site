@@ -132,17 +132,17 @@ export default function Home() {
           {[
             {
               name: "ai_frontend",
-              href: "https://github.com/muhammedby/ai_frontend",
+              href: "https://github.com/batuanbayram/ai_frontend",
               stack: "TypeScript · React",
             },
             {
               name: "ai_backend",
-              href: "https://github.com/muhammedby/ai_backend",
+              href: "https://github.com/batuanbayram/ai_backend",
               stack: "JavaScript · API",
             },
             {
               name: "turboost",
-              href: "https://github.com/muhammedby/turboost",
+              href: "https://github.com/batuanbayram/turboost",
               stack: "Python",
             },
           ].map((p) => (

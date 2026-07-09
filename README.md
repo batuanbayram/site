@@ -10,7 +10,7 @@ Yazılım becerilerini geliştirmek isteyen bir Elektrik-Elektronik mühendisli�
 ## Bağlantılar
 - **Website:** [bayram.xyz](https://bayram.xyz)
 - **LinkedIn:** [linkedin.com/in/muhammed-batuhan](https://www.linkedin.com/in/muhammed-batuhan)
-- **GitHub:** [github.com/muhammedby](https://github.com/muhammedby)
+- **GitHub:** [github.com/batuanbayram](https://github.com/batuanbayram)
 - **Medium:** [medium.com/@muhammedbatuhan](https://medium.com/@muhammedbatuhan)
 - **X (Twitter):** [x.com/batubym](https://x.com/batubym)
 - **Instagram:** [instagram.com/muhamrned](https://www.instagram.com/muhamrned/)
