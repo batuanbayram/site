@@ -26,7 +26,7 @@ export default function Nav() {
             İletişim
           </a>
           <a
-            href="https://github.com/muhammedby"
+            href="https://github.com/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -35,7 +35,7 @@ export default function Nav() {
             <Github className="h-4 w-4" />
           </a>
           <a
-            href="https://www.linkedin.com/in/muhammed-batuhan"
+            href="https://www.linkedin.com/in/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -44,7 +44,7 @@ export default function Nav() {
             <Linkedin className="h-4 w-4" />
           </a>
           <a
-            href="https://medium.com/@muhammedbatuhan"
+            href="https://medium.com/@batuhanbayram"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Medium"

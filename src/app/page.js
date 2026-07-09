@@ -22,12 +22,12 @@ export default function Home() {
           Muhammed Batuhan Bayram
         </h1>
         <p className="mx-auto mt-5 max-w-2xl text-balance text-lg font-medium leading-relaxed text-zinc-700 dark:text-zinc-300">
-          Akademik olarak Elektrik-Elektronik Mühendisliği alanında öğrenimimi sürdürürken ayrıca Yazılım alanında da kendimi geliştiriyorum. Kendimi belirli bir kalıbın içerisine hapsetmeyi sevmiyorum. Bu yüzden zaman zaman farklı konularda da düşüncelerimi dile getirdiğimi görebilirsiniz.
+          Akademik olarak Elektrik-Elektronik Mühendisliği alanında öğrenimimi sürdürürken ayrıca Yazılım alanında da kendimi geliştiriyorum.
         </p>
 
         <div className="mx-auto mt-8 flex flex-wrap items-center justify-center gap-3">
           <motion.a
-            href="https://github.com/muhammedby"
+            href="https://github.com/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 rounded-full bg-zinc-900 px-5 py-3 text-sm font-medium text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
@@ -39,7 +39,7 @@ export default function Home() {
             <ArrowRight className="h-4 w-4 opacity-60 transition group-hover:translate-x-0.5" />
           </motion.a>
           <a
-            href="https://www.linkedin.com/in/muhammed-batuhan"
+            href="https://www.linkedin.com/in/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-zinc-300/60 bg-white px-5 py-3 text-sm font-medium text-zinc-900 transition hover:bg-zinc-50 dark:border-white/20 dark:bg-transparent dark:text-zinc-200 dark:hover:bg-white/5"
@@ -120,7 +120,7 @@ export default function Home() {
             </p>
           </div>
           <a
-            href="https://github.com/muhammedby"
+            href="https://github.com/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm font-medium text-zinc-700 underline underline-offset-4 hover:text-zinc-900 dark:text-zinc-300 dark:hover:text-white"
@@ -242,13 +242,13 @@ export default function Home() {
         </p>
         <div className="mt-6 flex items-center justify-center gap-3">
           <a
-            href="mailto:batubayram18@gmail.com"
+            href="mailto:batuanbayram@gmail.com"
             className="rounded-full bg-zinc-900 px-5 py-3 text-sm font-medium text-white shadow-sm transition hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white"
           >
             E‑posta Gönder
           </a>
           <a
-            href="https://www.linkedin.com/in/muhammed-batuhan"
+            href="https://www.linkedin.com/in/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full border border-zinc-300/60 bg-white px-5 py-3 text-sm font-medium text-zinc-900 transition hover:bg-zinc-50 dark:border-white/20 dark:bg-transparent dark:text-zinc-200 dark:hover:bg-white/5"

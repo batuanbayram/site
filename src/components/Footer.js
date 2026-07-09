@@ -7,7 +7,7 @@ export default function Footer() {
         <p>&copy; {new Date().getFullYear()} Muhammed Batuhan Bayram</p>
         <div className="flex items-center gap-4">
           <Link
-            href="https://github.com/muhammedby"
+            href="https://github.com/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-900 dark:hover:text-white"
@@ -15,7 +15,7 @@ export default function Footer() {
             GitHub
           </Link>
           <Link
-            href="https://www.linkedin.com/in/muhammed-batuhan"
+            href="https://www.linkedin.com/in/batuanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-900 dark:hover:text-white"
@@ -23,7 +23,7 @@ export default function Footer() {
             LinkedIn
           </Link>
           <Link
-            href="https://medium.com/@muhammedbatuhan"
+            href="https://medium.com/@batuhanbayram"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-900 dark:hover:text-white"
