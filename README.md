@@ -9,11 +9,11 @@ Yazılım becerilerini geliştirmek isteyen bir Elektrik-Elektronik mühendisli�
 
 ## Bağlantılar
 - **Website:** [bayram.xyz](https://bayram.xyz)
-- **LinkedIn:** [linkedin.com/in/muhammed-batuhan](https://www.linkedin.com/in/muhammed-batuhan)
+- **LinkedIn:** [linkedin.com/in/batuanbayram](https://www.linkedin.com/in/batuanbayram)
 - **GitHub:** [github.com/batuanbayram](https://github.com/batuanbayram)
-- **Medium:** [medium.com/@muhammedbatuhan](https://medium.com/@muhammedbatuhan)
-- **X (Twitter):** [x.com/batubym](https://x.com/batubym)
-- **Instagram:** [instagram.com/muhamrned](https://www.instagram.com/muhamrned/)
+- **Medium:** [medium.com/@batuhanbayram](https://medium.com/@batuhanbayram)
+- **X (Twitter):** [x.com/batuanbayram](https://x.com/batuanbayram)
+- **Instagram:** [instagram.com/batuanbayram](https://www.instagram.com/batuanbayram/)
 
 ## Teknoloji Yığını
 Bu proje aşağıdaki teknolojilerle oluşturulmuştur:
